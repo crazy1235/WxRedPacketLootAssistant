@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WxRedPacketLootAssistant</string>
+
+    <string name="label_loot_assistant">抢红包助手</string>
+
+    <string name="desc_loot_assistant">抢微信红包工具\n\n created by ys.</string>
+</resources>
